@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+.body {
+  margin: 0;
+  background-color: rgb(0, 3, 34);
+  min-height: 100vh;
+}
+.iconButton {
+  transition: all 0.3s !important;
+  width: 40px;
+  height: 40px;
+}
+/* .iconButton:hover {
+  background-color: white !important;
+} */
+.taskCard {
+  transition: all 0.3s !important;
+}
+.taskCard:hover {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  box-shadow: 0px 8px 8px #555555d7;
+}
+@media (max-width: 600px) {
+  .icons {
+      flex-direction: column;
+      align-items: flex-end;
+      gap:  10px 0px;
+  }
+}
