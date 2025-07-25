@@ -19,16 +19,16 @@ A simple and colorful to-do list application where users can add tasks, mark the
 
 ## 📸 Screenshots
 
-(Add some screenshots here of your app if possible)
+here i will add some screen shots
 
 ## 🛠️ Installation & Setup
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/arssekal/to-do-app-react.git
 
 # 2. Navigate to the project folder
-cd your-repo-name
+cd to-do-app-react
 
 # 3. Install dependencies
 npm install
