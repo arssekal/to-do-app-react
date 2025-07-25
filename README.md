@@ -14,8 +14,9 @@ A simple and colorful to-do list application where users can add tasks, mark the
 ## 🧰 Tech Stack
 
 - **Frontend**: React.js
-- **State Management**: useState (or useReducer if used)
-- **Styling**: CSS (mention if you used Tailwind, Bootstrap, or custom CSS)
+- **Component Library**: Material UI (MUI)
+- **State Management**: useState and useReducer
+- **Styling**: CSS, Material UI icons
 
 ## 📸 Screenshots
 
